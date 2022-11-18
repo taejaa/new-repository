@@ -1,2 +1,6 @@
-Hello My name is kim tae jung
+Hello My name is kim tae jeung
 Kumoh National Institute of Technology
+
+Computer Sciences
+C Programming
+Object-oriented programming
